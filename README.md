@@ -1,4 +1,4 @@
-# @types/snowman
+# snowman-d-ts
 
 This repository provides Typescript definitions for the [Snowman 2](https://github.com/videlais/snowman/) Twine story format. This could be useful if you're writing a story in TypeScript. For me, it makes the squiggly lines go away while writing JS modules for my story.
 
